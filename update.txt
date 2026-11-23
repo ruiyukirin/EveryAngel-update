@@ -1,4 +1,4 @@
-versionCode=10
-versionName=1.9
+versionCode=11
+versionName=1.10
 url=https://raw.githubusercontent.com/ruiyukirin/EveryAngel-update/main/EveryAngel.apk
-note=License activation added
+note=Minimal home screen; license moves to settings
